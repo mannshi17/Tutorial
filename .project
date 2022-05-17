@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Credit Card [Introductory Tutorial Repository]</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.fairisaac.eclipse.rules.compiler.rulesCompilerBuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.fairisaac.eclipse.common.advisorNature</nature>
+		<nature>com.fairisaac.eclipse.rulesNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Business Terms Support Library Folder</name>
+			<type>2</type>
+			<locationURI>adv:/C:/Blaze/Advisor78/tutorials/introTutorialRepository/system/Business%20Terms%20Support%20Library%20Folder/</locationURI>
+		</link>
+		<link>
+			<name>Business Terms Support Library Folder.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/C:/Blaze/Advisor78/tutorials/introTutorialRepository/system/Business%20Terms%20Support%20Library%20Folder.innovator_attbs</locationURI>
+		</link>
+		<link>
+			<name>Credit Card Folder_3</name>
+			<type>2</type>
+			<locationURI>adv:/C:/Blaze/Advisor78/tutorials/introTutorialRepository/_My%20Work/Credit%20Card%20Folder_3/</locationURI>
+		</link>
+		<link>
+			<name>Credit Card Folder_3.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/C:/Blaze/Advisor78/tutorials/introTutorialRepository/_My%20Work/Credit%20Card%20Folder_3.innovator_attbs</locationURI>
+		</link>
+		<link>
+			<name>Custom Table Filter Folder</name>
+			<type>2</type>
+			<locationURI>adv:/C:/Blaze/Advisor78/tutorials/introTutorialRepository/system/Custom%20Table%20Filter%20Folder/</locationURI>
+		</link>
+		<link>
+			<name>Custom Table Filter Folder.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/C:/Blaze/Advisor78/tutorials/introTutorialRepository/system/Custom%20Table%20Filter%20Folder.innovator_attbs</locationURI>
+		</link>
+		<link>
+			<name>Decision Test Library Folder</name>
+			<type>2</type>
+			<locationURI>adv:/C:/Blaze/Advisor78/tutorials/introTutorialRepository/system/Decision%20Test%20Library%20Folder/</locationURI>
+		</link>
+		<link>
+			<name>Decision Test Library Folder.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/C:/Blaze/Advisor78/tutorials/introTutorialRepository/system/Decision%20Test%20Library%20Folder.innovator_attbs</locationURI>
+		</link>
+		<link>
+			<name>Management Properties Library Folder</name>
+			<type>2</type>
+			<locationURI>adv:/C:/Blaze/Advisor78/tutorials/introTutorialRepository/system/Management%20Properties%20Library%20Folder/</locationURI>
+		</link>
+		<link>
+			<name>Management Properties Library Folder.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/C:/Blaze/Advisor78/tutorials/introTutorialRepository/system/Management%20Properties%20Library%20Folder.innovator_attbs</locationURI>
+		</link>
+		<link>
+			<name>Queries Library Folder</name>
+			<type>2</type>
+			<locationURI>adv:/C:/Blaze/Advisor78/tutorials/introTutorialRepository/system/Queries%20Library%20Folder/</locationURI>
+		</link>
+		<link>
+			<name>Queries Library Folder.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/C:/Blaze/Advisor78/tutorials/introTutorialRepository/system/Queries%20Library%20Folder.innovator_attbs</locationURI>
+		</link>
+		<link>
+			<name>test_1</name>
+			<type>2</type>
+			<locationURI>adv:/C:/Blaze/Advisor78/tutorials/introTutorialRepository/_My%20Work/test_1/</locationURI>
+		</link>
+		<link>
+			<name>test_1.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/C:/Blaze/Advisor78/tutorials/introTutorialRepository/_My%20Work/test_1.innovator_attbs</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
